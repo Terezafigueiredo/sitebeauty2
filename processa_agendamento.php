@@ -4,7 +4,8 @@ $host = "localhost";
 $port = "5432";
 $dbname = "sitebeauty";
 $user = "postgres";
-$password = "#Te88510674";
+// troquei aqui (teste)
+$password = "Estacio@123";
 
 // PEGANDO DADOS (sanitizados)
 $nome = htmlspecialchars($_POST['nome'] ?? '', ENT_QUOTES, 'UTF-8');
