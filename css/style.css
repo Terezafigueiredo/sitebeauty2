@@ -421,6 +421,7 @@ body {
     margin-bottom: 15px;
     font-family: 'Montserrat', sans-serif;
     background: linear-gradient(90deg, #ffaad9, #ecb3d4);
+    background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
 }
